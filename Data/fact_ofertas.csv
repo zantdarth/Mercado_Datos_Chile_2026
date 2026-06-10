@@ -1,0 +1,85 @@
+﻿ID,Cargo,Empresa,Industria,Region,Fuente,Modalidad,Seniority,Salario,Exp_minima,Tipo_Rol,Notas,Es_Duplicado
+1,Data Analyst,Equifax,Tecnología / Datos,"Providencia, RM",LinkedIn,Presencial,Semi-Senior,No especificado,3 años,BI / Analytics,Pide 3 años exp.,False
+2,Analista de Inteligencia de Datos,IKEA (Grupo Falabella),Retail / Logística,"Las Condes, RM",LinkedIn,Híbrido,Semi-Senior,No especificado,2 años,BI / Analytics,Pide 2 años en BI y Fulfillment. +100 solicitudes.,False
+3,Data Intelligence Analyst,Principal Chile,Servicios Financieros,"Gran Santiago, RM",LinkedIn,Híbrido,Junior / Semi-Senior,No especificado,0-2 años,BI / Analytics,"Acepta 0 exp. Viernes hasta 14:00, 39.5 hrs semanales.",False
+4,Analista de Datos (HR),Grupo Falabella,Retail,"Gran Santiago, RM",LinkedIn,Híbrido,Junior,No especificado,1 año,BI / Analytics,"Enfocado en datos de RRHH. Skills técnicos solo deseables, no excluyentes.",False
+5,Data Analyst,Groupe SII,Consultoría TI,"Las Condes, RM",LinkedIn,Híbrido,Senior,No especificado,3+ años,BI / Analytics,Muy senior. SQL y Tableau excluyentes con años específicos.,False
+6,Analista de Datos Junior / Monitoreo,Tata Consultancy Services,Consultoría TI,"Gran Santiago, RM",LinkedIn,Híbrido,Junior,No especificado,No especificada,BI / Analytics,Turnos rotativos L-D 08:45-21:00. Ya postulaste. Sector banca/fraude deseable.,False
+7,Data Analyst E-commerce,Tigabytes CL,Consultoría / Google Cloud,"Las Condes, RM",LinkedIn,Híbrido,Senior,No especificado,3+ años,BI / Analytics,Proyecto 12 meses. Power BI Expert excluyente. Muy senior.,False
+8,Data Analyst,Mallplaza (Grupo Falabella),Retail / Mall,"Huechuraba, RM",LinkedIn,Presencial,Junior / Semi-Senior,No especificado,1 año,BI / Analytics,SQL y BI solo deseables. Foco en CX y retail regional. Proceso vía Aira.,False
+9,Analista de BI,Empresa Confidencial,Desconocida,"Gran Santiago, RM",LinkedIn,Híbrido,Junior / Semi-Senior,No especificado,1 año,BI / Analytics,Power BI + SQL + IA excluyentes. DAX requerido. Foco en RRHH/clientes.,False
+10,Analista de Ciencia de Datos,Step Therapy,Salud,"Ñuñoa, RM",LinkedIn,Presencial,Junior,No especificado,No especificada,Data Science / ML,Sin años de exp. requeridos. ML y salud. Presencial Ñuñoa 08:45-18:00.,False
+11,Data Engineer,Equifax,Tecnología / Datos,"Providencia, RM",LinkedIn,Presencial,Senior,No especificado,3-5+ años,BI / Analytics,"Muy senior. Rol de ingeniería, no analítica pura.",False
+12,Data Scientist,Banco Bci,Banca,"Las Condes, RM",LinkedIn,Remoto,Junior / Semi-Senior,No especificado,Hasta 2 años,Data Science / ML,ML y estadística fuertes. Power BI solo nociones. Banca con stack técnico exigente.,False
+13,Analista BI,Apiux Tech,Consultoría TI,"Gran Santiago, RM",LinkedIn,Híbrido,Semi-Senior,No especificado,Semi-Senior (no especificada),BI / Analytics,Solo 10 solicitudes — baja competencia. DAX y BigQuery excluyentes.,False
+14,Business Analyst,Grupo Falabella,Retail / Ecommerce,"Gran Santiago, RM",LinkedIn,Híbrido,Junior / Semi-Senior,No especificado,2 años,BI / Analytics,"Foco ecommerce/retail. Looker aparece como principal herramienta BI, no Power BI.",False
+15,Analista de Inteligencia Comercial,Tottus (Grupo Falabella),Retail / Supermercado,"Gran Santiago, RM",LinkedIn,Remoto,Junior / Semi-Senior,No especificado,1 año,BI / Analytics,100% remoto. SQL excluyente. Foco en análisis comercial/retail. Proceso vía Aira.,False
+16,BI Engineer,Cencosud Media,Retail / Media,"Las Condes, RM",LinkedIn,No especificado,Junior / Semi-Senior,No especificado,1 año,BI / Analytics,Solo 1 año exp. SQL y Power BI intermedios — accesible. Databricks deseable no excluyente.,False
+17,CRM Business Analyst,Itaú Chile,Banca,"Gran Santiago, RM",LinkedIn,Híbrido,Semi-Senior,No especificado,No especificada,BI / Analytics,Sin años exp. explícitos. Foco CRM/banca. Power BI no mencionado. N°1 GPTW 2025.,False
+18,"Analista de Datos (Fraude, Riesgo y Auditoría B2B)",Tata Consultancy Services,Consultoría TI / Telecomunicaciones,"Gran Santiago, RM",LinkedIn,Presencial,Semi-Senior,No especificado,2-3 años,BI / Analytics,46 solicitudes. Foco fraude/auditoría. Excel excluyente. Postular a p.herrera@tcs.com,False
+19,Specialist Data Science,BHP,Minería,RM,LinkedIn,Híbrido,Senior,,6 años,Data Science / ML,Vacante Data Science Senior,False
+20,Analista Programador SQL,SII Group,Consultoría TI,RM,LinkedIn,No especificado,Semi-Senior,,2+ años,Data Engineering,ETL y bases de datos,False
+21,Analista de Pricing,Tottus,Retail,RM,LinkedIn,Remoto,Junior / Semi-Senior,,1+ años,Analista de Datos General,Análisis comercial,False
+22,Líder de Analítica y Transformación,Empresa Confidencial,,RM,LinkedIn,Híbrido,Semi-Senior,,3+ años,BI / Analytics,Experiencia cliente,False
+23,Automation Assistant Temporary,Kraft Heinz,Consumo Masivo,RM,LinkedIn,No especificado,Junior,,,BI / Analytics,Proyecto temporal,False
+24,Service Excellence Operations Analyst,Johnson & Johnson MedTech,Salud,RM,LinkedIn,Híbrido,No especificado,,,BI / Analytics,Inglés intermedio,False
+25,Ingeniero/a de Datos,BancoEstado,Financiero,RM,LinkedIn,Presencial,Semi-Senior,,2+ años,Data Engineering,Data Engineering,False
+26,Analista Control de Gestión Compras,Blue Express,Logística,RM,LinkedIn,Híbrido,No especificado,,3+ años,BI / Analytics,Compras,False
+27,BI & Data Scientist,SICPA,Tecnología,RM,LinkedIn,Híbrido,Semi-Senior,,3+ años,Data Science / ML,IA y MLOps,False
+28,Product Manager Analytics CX,Banco Falabella,Financiero,RM,LinkedIn,Híbrido,Junior,,0-2 años,BI / Analytics,Analytics CX,False
+29,Líder de Analítica Digital,Banco BICE,Financiero,RM,LinkedIn,Híbrido,Senior,,3+ años,BI / Analytics,Analítica digital,False
+30,Analista Cuantitativo,Banco Central de Chile,Financiero,RM,LinkedIn,Híbrido,Senior,,Experiencia requerida,Analista de Datos General,Modelación financiera,False
+31,Data & Analytics Strategy Executive,dentsu,Marketing,RM,LinkedIn,No especificado,Junior / Semi-Senior,,,Analista de Datos General,Experimentación,False
+32,Analista Control Operaciones Siniestros Masivos,BNP Paribas Cardif,Seguros,RM,LinkedIn,Híbrido,No especificado,,1+ años,BI / Analytics,Control operacional,False
+33,Research Analyst,Aurora Energy Research,Energía,RM,LinkedIn,Híbrido,Junior,,0-2 años,Analista de Datos General,Inglés C1,False
+34,Analyst,Compass Lexecon,Consultoría Económica,RM,LinkedIn,Presencial,Junior,,,Analista de Datos General,Econometría,False
+35,Data QA Analyst,Blend,Tecnología,Remoto,LinkedIn,Remoto,Junior / Semi-Senior,,1+ años,Data Engineering,QA de datos,False
+36,Data Business Partner,Banco Bci,Financiero,RM,LinkedIn,Híbrido,Semi-Senior,,2-4 años,Data Engineering,Data Partner,False
+37,Data Engineer GCP,KPaz,Consultoría TI,RM,LinkedIn,Híbrido,Semi-Senior,,3+ años,Data Engineering,"BigQuery, Composer",False
+38,Data Scientist - Junior a Senior,Muck Consultores,Consultoría,RM,LinkedIn,Remoto,Junior / Semi-Senior,,,Data Science / ML,Sector financiero,False
+39,Analista de Datos - SQL,Perceptual Consultores,Consultoría / Financiero,"Santiago Centro, RM",Trabajando.cl,Híbrido,Semi-Senior,A convenir,3 años,BI / Analytics,Primera oferta de Trabajando.cl. 3 años mínimo. Stack variado.,False
+40,Analista de Datos Junior,ECRGROUP,Servicios / Operaciones,"Ñuñoa, RM",Trabajando.cl,Híbrido,Junior,$800.000 líquido,1 año,BI / Analytics,"Primera oferta con salario explícito: $800K líquido. Excel excluyente, Power BI solo deseable.",False
+41,Data Analyst BI,Perceptual Consultores,Consultoría / Financiero,"Santiago Centro, RM",Trabajando.cl,Híbrido,Semi-Senior,A convenir,3 años,BI / Analytics,Segunda oferta de Perceptual. Stack idéntico a oferta 41 — probablemente mismo cliente.,False
+42,Analista QA Senior - Gobierno del Dato,Banco de Chile,Banca,"Santiago Centro, RM",Trabajando.cl,Híbrido,Senior,A convenir,3 años (rubro financiero),Analista de Datos General,"Rol QA datos, no analítica pura. Senior con exp. financiera. Útil para mapear sector banca.",False
+43,Analista de Datos RRHH,Empresa Confidencial,Recursos Humanos,"Providencia, RM",Trabajando.cl,Híbrido,Semi-Senior,A convenir,2-4 años,BI / Analytics,Foco RRHH/personas. Power BI excluyente. BUK es ERP RRHH muy usado en Chile.,False
+44,Data Analyst (Reemplazo Pre/Post Natal),Clínica Alemana,Salud,"Vitacura, RM",Trabajando.cl,No especificado,Junior / Semi-Senior,A convenir,1-3 años,BI / Analytics,¡Tu ex empleador! Reemplazo temporal. Sin exp. mínima en formulario. Stack sólido.,False
+45,Analista Control Datos Maestros,Empresa Confidencial (Retail),Retail,"Santiago Centro, RM",Trabajando.cl,Presencial,Junior,A convenir,1 año (retail),Datos Operacionales / Industrial,"Rol de gobernanza/calidad de datos, no analítica BI. Stack muy básico. SAP suma para tu CV.",False
+46,Analista de Datos / BI Junior,Empresa Confidencial,Desconocida,"Santiago Centro, RM",Trabajando.cl,Presencial,Junior / Semi-Senior,Acorde al mercado,2 años,BI / Analytics,"Proyecto 3 meses renovable. Viernes hasta 15:35. 61 postulantes, 60% técnicos.",False
+47,Analista de Protección de Datos,Empresa Confidencial,Corporativo,"Las Condes, RM",Trabajando.cl,Híbrido,Junior,Acorde al mercado,1 año,Privacidad / Compliance,"Rol de privacidad/compliance, no analítica BI. Contrato por proyecto. Viernes hasta 14:00.",False
+48,Analista de Privacidad de Datos,Empresa Confidencial,Corporativo,"Las Condes, RM",Trabajando.cl,Híbrido,Junior,Acorde al mercado,1 año,Privacidad / Compliance,⚠ Probable duplicado de oferta #49. Stack y funciones idénticas.,False
+49,Analista Data Analytics Junior,Empresa Confidencial (Retail),Retail,"Las Condes, RM",Trabajando.cl,Híbrido,Junior,A convenir,1 año,BI / Analytics,Ya postulaste (09/06). Migración Power BI → Looker. QlikView aparece por primera vez.,False
+50,Data Analyst / GCP,Michael Page (cliente retail),Retail,"Huechuraba, RM",Trabajando.cl,Híbrido,Senior,Renta mercado,4 años,BI / Analytics,Muy senior. Proyecto 10 meses. Primera aparición de Power Apps. Michael Page = headhunter.,False
+51,Analista de Datos,CGE S.A.,Energía / Utilities,"Las Condes, RM",Trabajando.cl,Presencial,Senior,A convenir,3 años,Data Science / ML,"Primer rol del sector energía. ML + SAP HANA. 61 postulantes, 60% técnicos.",False
+52,Analista de Datos - Desarrollador,VALIO SpA,Consultoría TI,"Santiago Centro, RM",Trabajando.cl,Presencial,Semi-Senior,Renta mercado,2-3 años,BI / Analytics,Rol híbrido analista+dev. Pentaho aparece por segunda vez. Contrato 3m + indefinido.,False
+53,Analista de Confiabilidad de Datos,Empresa Confidencial (Alimentos),Industria / Alimentos,"Santiago Centro, RM",Trabajando.cl,Presencial,Junior,A convenir,1 año,Datos Operacionales / Industrial,"Rol industrial/mantenimiento, no BI puro. Primer sector alimentos. Stack técnico muy vago.",False
+54,Analista de Datos (Maquinaria),Empresa Confidencial (Minería/Construcción),Minería / Construcción,"Huechuraba, RM",Trabajando.cl,Presencial,Junior,A convenir,1 año,Datos Operacionales / Industrial,Sector movimiento de tierra. Python + IA predictiva. Primer rol con Máximo (ERP mantenimiento).,False
+55,Analista de Datos / Compensaciones,Consorcio,Servicios Financieros / Seguros,"Las Condes, RM",Trabajando.cl,Híbrido,Junior / Semi-Senior,A convenir,Hasta 2 años,BI / Analytics,Ya postulaste (09/06). Hasta 2 años exp. Foco RRHH/compensaciones. AWS como plataforma.,False
+56,Analista de Datos,Forum Servicios Financieros (BBVA),Servicios Financieros,"Las Condes, RM",Trabajando.cl,Híbrido,Junior,A convenir,0-1 año,Analista de Datos General,0-1 año exp. Primera oferta con IA/Gemini como req. explícito avanzado. Google stack puro.,False
+57,Data Analyst Financiero,Quelen Fruit,Agroindustria / Exportación,"Las Condes, RM",Trabajando.cl,Presencial,Junior,A convenir,0-2 años,BI / Analytics,Primer sector agroindustria/exportación. 0-2 años exp. Excel + Power BI intermedios.,False
+58,Analista Datos de Negocio,Bci Seguros,Seguros / Banca,"Las Condes, RM",Trabajando.cl,Híbrido,Junior / Semi-Senior,A convenir,1 año,Data Engineering,"IA como req. explícito (prompts, implementación). PySpark y TypeScript aparecen por primera vez.",False
+59,Analista de Consistencia de Datos,Soprole,Consumo Masivo / Logística,"Renca, RM",Trabajando.cl,Presencial,Junior,A convenir,1 año (o práctica),BI / Analytics,Sin exp. mínima en formulario. Foco logístico. Tu práctica en Clínica Alemana puede contar.,False
+60,Analista de Gestión de Datos,BancoEstado Cobranzas,Banca / Cobranza,"Santiago Centro, RM",Trabajando.cl,Presencial,Semi-Senior,A convenir,3 años,BI / Analytics,Formulario dice 'sin exp.' pero perfil pide 3 años. Banco Estado = empresa pública grande.,False
+61,Analista de Datos de Activos,Transelec,Energía / Transmisión,"Cerro Navia, RM",Trabajando.cl,Presencial,Senior,A convenir,3 años,BI / Analytics,Sector transmisión eléctrica. Stack completo ETL+BI. GIS aparece por primera vez.,False
+62,Analista de Datos (Laboratorio LIMS),Empresa Confidencial,Minería / Laboratorio Químico,Antofagasta,Trabajando.cl,No especificado,Junior,$1.200.000 líquido,1 año,Datos Operacionales / Industrial,⚠ NO es rol TI/BI. Analista químico de laboratorio. Útil solo para análisis de ruido en el mercado.,False
+63,Analista de Datos Sucursal Quilicura,Komatsu Cummins,Industrial/Mining,"Quilicura, RM",Trabajando,Presencial,Senior,No especificado,4 años,Data Engineering,Analítica avanzada,False
+64,Ingeniero Analista de Datos,CyD Ingeniería,Minería,Coquimbo/Atacama,Trabajando,No especificado,Senior,No especificado,5 años,Analista de Datos General,Rubro minero,False
+65,Data Analyst,WOM,Telecomunicaciones,"Santiago, RM",Trabajando,Presencial,Semi-Senior,No especificado,3 años,BI / Analytics,Ecommerce,False
+66,Desarrollador Senior NodeJs y TypeScript,Perceptual,TI,Huechuraba,Trabajando,Híbrido,Senior,No especificado,3 años,Analista de Datos General,Backend,False
+67,Analista Contratos y Adm. de Terceros,Chilexpress,Logística,Huechuraba,Trabajando,Híbrido,No especificado,No especificado,2 años,BI / Analytics,Proveedores,False
+68,Analista de Subsidios,Nueva Masvida,Salud,Las Condes,Trabajando,Presencial,No especificado,No especificado,2 años,BI / Analytics,Isapre,False
+69,Ingeniero Comercial Procurement,Confidencial,Seguros,Las Condes,Trabajando,Híbrido,Junior,1000000,1 año,Analista de Datos General,Procurement,False
+70,Administrador Infraestructura AWS,Perceptual,TI,Santiago,Trabajando,Presencial,No especificado,No especificado,1 año,Analista de Datos General,Infraestructura,False
+71,Analista de Demanda,Comercial de Campo,Alimentos,Huechuraba,Trabajando,Presencial,No especificado,No especificado,1 año,BI / Analytics,Forecast,False
+72,Analista BI,BC Tecnología,TI,Santiago,GetOnBoard,Híbrido,Semi-Senior,No especificado,2 años,BI / Analytics,BI,False
+73,Data Analyst,BC Tecnología,TI,Santiago,GetOnBoard,Híbrido,Semi-Senior,No especificado,2 años,BI / Analytics,Risk Ops,False
+74,Analista de Datos SQL,Perceptual,Financiero,Santiago,BNE,Híbrido,No especificado,A convenir,3 años,BI / Analytics,Datos,False
+75,Analista Trade Marketing,Retail Confidencial,Retail,Santiago,BNE,Presencial,No especificado,No especificado,1 año,Analista de Datos General,Trade,False
+76,Analista Protección de Datos,PS Grupo Hunting,Compliance,Santiago,BNE,Híbrido,No especificado,No especificado,2 años,Privacidad / Compliance,Privacidad,False
+77,Ingeniero Analista de Datos,Xinerlink,Retail,Las Condes,BNE,Presencial,No especificado,1200000,1 año,BI / Analytics,Proyecto,False
+78,Analista Datos Santiago,Komatsu Cummins,Industrial,Santiago,BNE,Presencial,Senior,No especificado,4 años,Data Engineering,Duplicada,False
+79,Analista Datos y Control Gestión,Empresa Internacional,Acuícola,Puerto Varas,BNE,Presencial,Junior,No especificado,0-3 años,BI / Analytics,Control gestión,False
+80,Analista Datos Automatización Auditoría,AFP Modelo,Financiero,Santiago,BNE,Híbrido,No especificado,No especificado,2 años,Analista de Datos General,Auditoría,False
+81,Analista Datos Geomático Forestal,Rabanal y Stenger,Forestal,Ecuador,BNE,Presencial,Senior,No especificado,5 años,Analista de Datos General,Geomática,False
+82,Analista Calidad de Datos SQL,Kibernum,TI,Santiago,BNE,Híbrido,No especificado,No especificado,2 años,BI / Analytics,Calidad datos,False
+83,Analista Junior Datos y Automatización,RyC Consultores,TI,Santiago,BNE,Híbrido,Junior,No especificado,0-1 años,BI / Analytics,Junior,False
+84,Analista Datos Junior,Kibernum,TI,Santiago,BNE,Híbrido,Junior,850000,1 año,Data Engineering,Junior,False

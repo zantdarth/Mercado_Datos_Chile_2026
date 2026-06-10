@@ -1,0 +1,263 @@
+﻿Oferta_ID,Empresa,Seniority,Tipo_Rol,Skill,Categoria
+1,Equifax,Semi-Senior,BI / Analytics,SQL,Lenguaje
+1,Equifax,Semi-Senior,BI / Analytics,Python,Lenguaje
+1,Equifax,Semi-Senior,BI / Analytics,GCP / BigQuery,Cloud
+1,Equifax,Semi-Senior,BI / Analytics,Looker,Herramienta BI
+1,Equifax,Semi-Senior,BI / Analytics,Scrum,Metodología
+2,IKEA (Grupo Falabella),Semi-Senior,BI / Analytics,SQL,Lenguaje
+2,IKEA (Grupo Falabella),Semi-Senior,BI / Analytics,Power BI,Herramienta BI
+2,IKEA (Grupo Falabella),Semi-Senior,BI / Analytics,GCP / BigQuery,Cloud
+2,IKEA (Grupo Falabella),Semi-Senior,BI / Analytics,AWS,Cloud
+2,IKEA (Grupo Falabella),Semi-Senior,BI / Analytics,Azure,Cloud
+2,IKEA (Grupo Falabella),Semi-Senior,BI / Analytics,Inglés,Otros
+2,IKEA (Grupo Falabella),Semi-Senior,BI / Analytics,IA Generativa,Avanzado
+3,Principal Chile,Junior / Semi-Senior,BI / Analytics,SQL,Lenguaje
+3,Principal Chile,Junior / Semi-Senior,BI / Analytics,Power BI,Herramienta BI
+3,Principal Chile,Junior / Semi-Senior,BI / Analytics,Python,Lenguaje
+3,Principal Chile,Junior / Semi-Senior,BI / Analytics,Excel,Herramienta BI
+3,Principal Chile,Junior / Semi-Senior,BI / Analytics,AWS,Cloud
+3,Principal Chile,Junior / Semi-Senior,BI / Analytics,Azure,Cloud
+3,Principal Chile,Junior / Semi-Senior,BI / Analytics,Inglés,Otros
+4,Grupo Falabella,Junior,BI / Analytics,SQL,Lenguaje
+4,Grupo Falabella,Junior,BI / Analytics,Power BI,Herramienta BI
+4,Grupo Falabella,Junior,BI / Analytics,Python,Lenguaje
+5,Groupe SII,Senior,BI / Analytics,SQL,Lenguaje
+5,Groupe SII,Senior,BI / Analytics,Tableau,Herramienta BI
+5,Groupe SII,Senior,BI / Analytics,GCP / BigQuery,Cloud
+5,Groupe SII,Senior,BI / Analytics,AWS,Cloud
+5,Groupe SII,Senior,BI / Analytics,ETL / Pipelines,Metodología
+6,Tata Consultancy Services,Junior,BI / Analytics,SQL,Lenguaje
+6,Tata Consultancy Services,Junior,BI / Analytics,Power BI,Herramienta BI
+6,Tata Consultancy Services,Junior,BI / Analytics,Python,Lenguaje
+6,Tata Consultancy Services,Junior,BI / Analytics,Excel,Herramienta BI
+7,Tigabytes CL,Senior,BI / Analytics,SQL,Lenguaje
+7,Tigabytes CL,Senior,BI / Analytics,Power BI,Herramienta BI
+7,Tigabytes CL,Senior,BI / Analytics,GCP / BigQuery,Cloud
+7,Tigabytes CL,Senior,BI / Analytics,DAX,Lenguaje
+7,Tigabytes CL,Senior,BI / Analytics,Scrum,Metodología
+8,Mallplaza (Grupo Falabella),Junior / Semi-Senior,BI / Analytics,SQL,Lenguaje
+8,Mallplaza (Grupo Falabella),Junior / Semi-Senior,BI / Analytics,Power BI,Herramienta BI
+8,Mallplaza (Grupo Falabella),Junior / Semi-Senior,BI / Analytics,Excel,Herramienta BI
+8,Mallplaza (Grupo Falabella),Junior / Semi-Senior,BI / Analytics,Tableau,Herramienta BI
+8,Mallplaza (Grupo Falabella),Junior / Semi-Senior,BI / Analytics,Inglés,Otros
+9,Empresa Confidencial,Junior / Semi-Senior,BI / Analytics,SQL,Lenguaje
+9,Empresa Confidencial,Junior / Semi-Senior,BI / Analytics,Power BI,Herramienta BI
+9,Empresa Confidencial,Junior / Semi-Senior,BI / Analytics,DAX,Lenguaje
+9,Empresa Confidencial,Junior / Semi-Senior,BI / Analytics,Inglés,Otros
+10,Step Therapy,Junior,Data Science / ML,SQL,Lenguaje
+10,Step Therapy,Junior,Data Science / ML,Power BI,Herramienta BI
+10,Step Therapy,Junior,Data Science / ML,Python,Lenguaje
+10,Step Therapy,Junior,Data Science / ML,Tableau,Herramienta BI
+11,Equifax,Senior,BI / Analytics,SQL,Lenguaje
+11,Equifax,Senior,BI / Analytics,Python,Lenguaje
+11,Equifax,Senior,BI / Analytics,GCP / BigQuery,Cloud
+11,Equifax,Senior,BI / Analytics,AWS,Cloud
+11,Equifax,Senior,BI / Analytics,Azure,Cloud
+11,Equifax,Senior,BI / Analytics,Looker,Herramienta BI
+12,Banco Bci,Junior / Semi-Senior,Data Science / ML,SQL,Lenguaje
+12,Banco Bci,Junior / Semi-Senior,Data Science / ML,Power BI,Herramienta BI
+12,Banco Bci,Junior / Semi-Senior,Data Science / ML,Python,Lenguaje
+12,Banco Bci,Junior / Semi-Senior,Data Science / ML,Tableau,Herramienta BI
+12,Banco Bci,Junior / Semi-Senior,Data Science / ML,Machine Learning,Avanzado
+13,Apiux Tech,Semi-Senior,BI / Analytics,Power BI,Herramienta BI
+13,Apiux Tech,Semi-Senior,BI / Analytics,GCP / BigQuery,Cloud
+13,Apiux Tech,Semi-Senior,BI / Analytics,DAX,Lenguaje
+13,Apiux Tech,Semi-Senior,BI / Analytics,Inglés,Otros
+14,Grupo Falabella,Junior / Semi-Senior,BI / Analytics,SQL,Lenguaje
+14,Grupo Falabella,Junior / Semi-Senior,BI / Analytics,Power BI,Herramienta BI
+14,Grupo Falabella,Junior / Semi-Senior,BI / Analytics,Python,Lenguaje
+14,Grupo Falabella,Junior / Semi-Senior,BI / Analytics,Looker,Herramienta BI
+14,Grupo Falabella,Junior / Semi-Senior,BI / Analytics,Inglés,Otros
+15,Tottus (Grupo Falabella),Junior / Semi-Senior,BI / Analytics,SQL,Lenguaje
+15,Tottus (Grupo Falabella),Junior / Semi-Senior,BI / Analytics,Power BI,Herramienta BI
+15,Tottus (Grupo Falabella),Junior / Semi-Senior,BI / Analytics,Tableau,Herramienta BI
+15,Tottus (Grupo Falabella),Junior / Semi-Senior,BI / Analytics,GCP / BigQuery,Cloud
+15,Tottus (Grupo Falabella),Junior / Semi-Senior,BI / Analytics,Looker,Herramienta BI
+16,Cencosud Media,Junior / Semi-Senior,BI / Analytics,SQL,Lenguaje
+16,Cencosud Media,Junior / Semi-Senior,BI / Analytics,Power BI,Herramienta BI
+16,Cencosud Media,Junior / Semi-Senior,BI / Analytics,Python,Lenguaje
+16,Cencosud Media,Junior / Semi-Senior,BI / Analytics,Azure,Cloud
+16,Cencosud Media,Junior / Semi-Senior,BI / Analytics,ETL / Pipelines,Metodología
+16,Cencosud Media,Junior / Semi-Senior,BI / Analytics,Databricks / Spark,Cloud
+16,Cencosud Media,Junior / Semi-Senior,BI / Analytics,Inglés,Otros
+17,Itaú Chile,Semi-Senior,BI / Analytics,SQL,Lenguaje
+17,Itaú Chile,Semi-Senior,BI / Analytics,Power BI,Herramienta BI
+17,Itaú Chile,Semi-Senior,BI / Analytics,Python,Lenguaje
+17,Itaú Chile,Semi-Senior,BI / Analytics,AWS,Cloud
+18,Tata Consultancy Services,Semi-Senior,BI / Analytics,SQL,Lenguaje
+18,Tata Consultancy Services,Semi-Senior,BI / Analytics,Power BI,Herramienta BI
+18,Tata Consultancy Services,Semi-Senior,BI / Analytics,Python,Lenguaje
+18,Tata Consultancy Services,Semi-Senior,BI / Analytics,Excel,Herramienta BI
+18,Tata Consultancy Services,Semi-Senior,BI / Analytics,ETL / Pipelines,Metodología
+19,BHP,Senior,Data Science / ML,SQL,Lenguaje
+19,BHP,Senior,Data Science / ML,Python,Lenguaje
+19,BHP,Senior,Data Science / ML,AWS,Cloud
+20,SII Group,Semi-Senior,Data Engineering,SQL,Lenguaje
+20,SII Group,Semi-Senior,Data Engineering,ETL / Pipelines,Metodología
+21,Tottus,Junior / Semi-Senior,Analista de Datos General,Excel,Herramienta BI
+22,Empresa Confidencial,Semi-Senior,BI / Analytics,SQL,Lenguaje
+22,Empresa Confidencial,Semi-Senior,BI / Analytics,Power BI,Herramienta BI
+23,Kraft Heinz,Junior,BI / Analytics,Power BI,Herramienta BI
+23,Kraft Heinz,Junior,BI / Analytics,Excel,Herramienta BI
+24,Johnson & Johnson MedTech,No especificado,BI / Analytics,Power BI,Herramienta BI
+24,Johnson & Johnson MedTech,No especificado,BI / Analytics,Excel,Herramienta BI
+24,Johnson & Johnson MedTech,No especificado,BI / Analytics,Inglés,Otros
+25,BancoEstado,Semi-Senior,Data Engineering,AWS,Cloud
+25,BancoEstado,Semi-Senior,Data Engineering,ETL / Pipelines,Metodología
+26,Blue Express,No especificado,BI / Analytics,SQL,Lenguaje
+26,Blue Express,No especificado,BI / Analytics,Power BI,Herramienta BI
+26,Blue Express,No especificado,BI / Analytics,SAP,Otros
+27,SICPA,Semi-Senior,Data Science / ML,SQL,Lenguaje
+27,SICPA,Semi-Senior,Data Science / ML,Power BI,Herramienta BI
+27,SICPA,Semi-Senior,Data Science / ML,Python,Lenguaje
+28,Banco Falabella,Junior,BI / Analytics,SQL,Lenguaje
+28,Banco Falabella,Junior,BI / Analytics,Power BI,Herramienta BI
+29,Banco BICE,Senior,BI / Analytics,SQL,Lenguaje
+29,Banco BICE,Senior,BI / Analytics,Looker,Herramienta BI
+30,Banco Central de Chile,Senior,Analista de Datos General,Python,Lenguaje
+30,Banco Central de Chile,Senior,Analista de Datos General,R,Lenguaje
+32,BNP Paribas Cardif,No especificado,BI / Analytics,SQL,Lenguaje
+32,BNP Paribas Cardif,No especificado,BI / Analytics,Power BI,Herramienta BI
+33,Aurora Energy Research,Junior,Analista de Datos General,Python,Lenguaje
+33,Aurora Energy Research,Junior,Analista de Datos General,Excel,Herramienta BI
+33,Aurora Energy Research,Junior,Analista de Datos General,Inglés,Otros
+34,Compass Lexecon,Junior,Analista de Datos General,Python,Lenguaje
+34,Compass Lexecon,Junior,Analista de Datos General,Excel,Herramienta BI
+35,Blend,Junior / Semi-Senior,Data Engineering,SQL,Lenguaje
+35,Blend,Junior / Semi-Senior,Data Engineering,Azure,Cloud
+35,Blend,Junior / Semi-Senior,Data Engineering,Databricks / Spark,Cloud
+36,Banco Bci,Semi-Senior,Data Engineering,SQL,Lenguaje
+36,Banco Bci,Semi-Senior,Data Engineering,Python,Lenguaje
+36,Banco Bci,Semi-Senior,Data Engineering,ETL / Pipelines,Metodología
+37,KPaz,Semi-Senior,Data Engineering,SQL,Lenguaje
+37,KPaz,Semi-Senior,Data Engineering,Python,Lenguaje
+37,KPaz,Semi-Senior,Data Engineering,GCP / BigQuery,Cloud
+38,Muck Consultores,Junior / Semi-Senior,Data Science / ML,Machine Learning,Avanzado
+39,Perceptual Consultores,Semi-Senior,BI / Analytics,SQL,Lenguaje
+39,Perceptual Consultores,Semi-Senior,BI / Analytics,Power BI,Herramienta BI
+39,Perceptual Consultores,Semi-Senior,BI / Analytics,Python,Lenguaje
+39,Perceptual Consultores,Semi-Senior,BI / Analytics,Tableau,Herramienta BI
+40,ECRGROUP,Junior,BI / Analytics,Power BI,Herramienta BI
+40,ECRGROUP,Junior,BI / Analytics,Excel,Herramienta BI
+41,Perceptual Consultores,Semi-Senior,BI / Analytics,SQL,Lenguaje
+41,Perceptual Consultores,Semi-Senior,BI / Analytics,Python,Lenguaje
+41,Perceptual Consultores,Semi-Senior,BI / Analytics,Tableau,Herramienta BI
+43,Empresa Confidencial,Semi-Senior,BI / Analytics,Power BI,Herramienta BI
+43,Empresa Confidencial,Semi-Senior,BI / Analytics,Excel,Herramienta BI
+44,Clínica Alemana,Junior / Semi-Senior,BI / Analytics,SQL,Lenguaje
+44,Clínica Alemana,Junior / Semi-Senior,BI / Analytics,Power BI,Herramienta BI
+44,Clínica Alemana,Junior / Semi-Senior,BI / Analytics,Python,Lenguaje
+44,Clínica Alemana,Junior / Semi-Senior,BI / Analytics,Tableau,Herramienta BI
+44,Clínica Alemana,Junior / Semi-Senior,BI / Analytics,Looker,Herramienta BI
+45,Empresa Confidencial (Retail),Junior,Datos Operacionales / Industrial,Excel,Herramienta BI
+45,Empresa Confidencial (Retail),Junior,Datos Operacionales / Industrial,SAP,Otros
+46,Empresa Confidencial,Junior / Semi-Senior,BI / Analytics,SQL,Lenguaje
+46,Empresa Confidencial,Junior / Semi-Senior,BI / Analytics,Power BI,Herramienta BI
+46,Empresa Confidencial,Junior / Semi-Senior,BI / Analytics,Python,Lenguaje
+46,Empresa Confidencial,Junior / Semi-Senior,BI / Analytics,Excel,Herramienta BI
+47,Empresa Confidencial,Junior,Privacidad / Compliance,Excel,Herramienta BI
+48,Empresa Confidencial,Junior,Privacidad / Compliance,Excel,Herramienta BI
+49,Empresa Confidencial (Retail),Junior,BI / Analytics,SQL,Lenguaje
+49,Empresa Confidencial (Retail),Junior,BI / Analytics,Power BI,Herramienta BI
+49,Empresa Confidencial (Retail),Junior,BI / Analytics,Python,Lenguaje
+49,Empresa Confidencial (Retail),Junior,BI / Analytics,GCP / BigQuery,Cloud
+49,Empresa Confidencial (Retail),Junior,BI / Analytics,Looker,Herramienta BI
+50,Michael Page (cliente retail),Senior,BI / Analytics,SQL,Lenguaje
+50,Michael Page (cliente retail),Senior,BI / Analytics,Power BI,Herramienta BI
+50,Michael Page (cliente retail),Senior,BI / Analytics,Python,Lenguaje
+50,Michael Page (cliente retail),Senior,BI / Analytics,Excel,Herramienta BI
+50,Michael Page (cliente retail),Senior,BI / Analytics,GCP / BigQuery,Cloud
+50,Michael Page (cliente retail),Senior,BI / Analytics,Looker,Herramienta BI
+50,Michael Page (cliente retail),Senior,BI / Analytics,Inglés,Otros
+51,CGE S.A.,Senior,Data Science / ML,Python,Lenguaje
+51,CGE S.A.,Senior,Data Science / ML,Inglés,Otros
+51,CGE S.A.,Senior,Data Science / ML,SAP,Otros
+52,VALIO SpA,Semi-Senior,BI / Analytics,SQL,Lenguaje
+52,VALIO SpA,Semi-Senior,BI / Analytics,Power BI,Herramienta BI
+52,VALIO SpA,Semi-Senior,BI / Analytics,Python,Lenguaje
+52,VALIO SpA,Semi-Senior,BI / Analytics,Tableau,Herramienta BI
+52,VALIO SpA,Semi-Senior,BI / Analytics,ETL / Pipelines,Metodología
+54,Empresa Confidencial (Minería/Construcción),Junior,Datos Operacionales / Industrial,Python,Lenguaje
+55,Consorcio,Junior / Semi-Senior,BI / Analytics,Power BI,Herramienta BI
+55,Consorcio,Junior / Semi-Senior,BI / Analytics,Python,Lenguaje
+55,Consorcio,Junior / Semi-Senior,BI / Analytics,AWS,Cloud
+55,Consorcio,Junior / Semi-Senior,BI / Analytics,R,Lenguaje
+56,Forum Servicios Financieros (BBVA),Junior,Analista de Datos General,SQL,Lenguaje
+56,Forum Servicios Financieros (BBVA),Junior,Analista de Datos General,Excel,Herramienta BI
+56,Forum Servicios Financieros (BBVA),Junior,Analista de Datos General,IA Generativa,Avanzado
+57,Quelen Fruit,Junior,BI / Analytics,Power BI,Herramienta BI
+57,Quelen Fruit,Junior,BI / Analytics,Excel,Herramienta BI
+57,Quelen Fruit,Junior,BI / Analytics,Inglés,Otros
+58,Bci Seguros,Junior / Semi-Senior,Data Engineering,SQL,Lenguaje
+58,Bci Seguros,Junior / Semi-Senior,Data Engineering,Python,Lenguaje
+58,Bci Seguros,Junior / Semi-Senior,Data Engineering,Excel,Herramienta BI
+58,Bci Seguros,Junior / Semi-Senior,Data Engineering,ETL / Pipelines,Metodología
+58,Bci Seguros,Junior / Semi-Senior,Data Engineering,Databricks / Spark,Cloud
+58,Bci Seguros,Junior / Semi-Senior,Data Engineering,IA Generativa,Avanzado
+58,Bci Seguros,Junior / Semi-Senior,Data Engineering,R,Lenguaje
+59,Soprole,Junior,BI / Analytics,Power BI,Herramienta BI
+59,Soprole,Junior,BI / Analytics,Excel,Herramienta BI
+59,Soprole,Junior,BI / Analytics,SAP,Otros
+60,BancoEstado Cobranzas,Semi-Senior,BI / Analytics,Power BI,Herramienta BI
+60,BancoEstado Cobranzas,Semi-Senior,BI / Analytics,Python,Lenguaje
+60,BancoEstado Cobranzas,Semi-Senior,BI / Analytics,AWS,Cloud
+60,BancoEstado Cobranzas,Semi-Senior,BI / Analytics,ETL / Pipelines,Metodología
+61,Transelec,Senior,BI / Analytics,SQL,Lenguaje
+61,Transelec,Senior,BI / Analytics,Power BI,Herramienta BI
+61,Transelec,Senior,BI / Analytics,Python,Lenguaje
+61,Transelec,Senior,BI / Analytics,Excel,Herramienta BI
+61,Transelec,Senior,BI / Analytics,GCP / BigQuery,Cloud
+61,Transelec,Senior,BI / Analytics,ETL / Pipelines,Metodología
+63,Komatsu Cummins,Senior,Data Engineering,SQL,Lenguaje
+63,Komatsu Cummins,Senior,Data Engineering,Python,Lenguaje
+63,Komatsu Cummins,Senior,Data Engineering,ETL / Pipelines,Metodología
+63,Komatsu Cummins,Senior,Data Engineering,R,Lenguaje
+65,WOM,Semi-Senior,BI / Analytics,SQL,Lenguaje
+65,WOM,Semi-Senior,BI / Analytics,Power BI,Herramienta BI
+65,WOM,Semi-Senior,BI / Analytics,Python,Lenguaje
+65,WOM,Semi-Senior,BI / Analytics,GCP / BigQuery,Cloud
+66,Perceptual,Senior,Analista de Datos General,SQL,Lenguaje
+66,Perceptual,Senior,Analista de Datos General,AWS,Cloud
+67,Chilexpress,No especificado,BI / Analytics,Power BI,Herramienta BI
+67,Chilexpress,No especificado,BI / Analytics,Excel,Herramienta BI
+67,Chilexpress,No especificado,BI / Analytics,SAP,Otros
+68,Nueva Masvida,No especificado,BI / Analytics,SQL,Lenguaje
+68,Nueva Masvida,No especificado,BI / Analytics,Power BI,Herramienta BI
+68,Nueva Masvida,No especificado,BI / Analytics,Excel,Herramienta BI
+68,Nueva Masvida,No especificado,BI / Analytics,SAP,Otros
+69,Confidencial,Junior,Analista de Datos General,Excel,Herramienta BI
+69,Confidencial,Junior,Analista de Datos General,SAP,Otros
+70,Perceptual,No especificado,Analista de Datos General,SQL,Lenguaje
+70,Perceptual,No especificado,Analista de Datos General,AWS,Cloud
+71,Comercial de Campo,No especificado,BI / Analytics,Power BI,Herramienta BI
+71,Comercial de Campo,No especificado,BI / Analytics,Excel,Herramienta BI
+71,Comercial de Campo,No especificado,BI / Analytics,SAP,Otros
+72,BC Tecnología,Semi-Senior,BI / Analytics,SQL,Lenguaje
+72,BC Tecnología,Semi-Senior,BI / Analytics,Power BI,Herramienta BI
+72,BC Tecnología,Semi-Senior,BI / Analytics,Python,Lenguaje
+73,BC Tecnología,Semi-Senior,BI / Analytics,SQL,Lenguaje
+73,BC Tecnología,Semi-Senior,BI / Analytics,Power BI,Herramienta BI
+73,BC Tecnología,Semi-Senior,BI / Analytics,Python,Lenguaje
+73,BC Tecnología,Semi-Senior,BI / Analytics,GCP / BigQuery,Cloud
+74,Perceptual,No especificado,BI / Analytics,SQL,Lenguaje
+74,Perceptual,No especificado,BI / Analytics,Python,Lenguaje
+74,Perceptual,No especificado,BI / Analytics,Tableau,Herramienta BI
+75,Retail Confidencial,No especificado,Analista de Datos General,Excel,Herramienta BI
+77,Xinerlink,No especificado,BI / Analytics,SQL,Lenguaje
+77,Xinerlink,No especificado,BI / Analytics,Power BI,Herramienta BI
+78,Komatsu Cummins,Senior,Data Engineering,SQL,Lenguaje
+78,Komatsu Cummins,Senior,Data Engineering,Python,Lenguaje
+78,Komatsu Cummins,Senior,Data Engineering,ETL / Pipelines,Metodología
+79,Empresa Internacional,Junior,BI / Analytics,SQL,Lenguaje
+79,Empresa Internacional,Junior,BI / Analytics,Power BI,Herramienta BI
+79,Empresa Internacional,Junior,BI / Analytics,Excel,Herramienta BI
+80,AFP Modelo,No especificado,Analista de Datos General,SQL,Lenguaje
+81,Rabanal y Stenger,Senior,Analista de Datos General,Python,Lenguaje
+82,Kibernum,No especificado,BI / Analytics,SQL,Lenguaje
+82,Kibernum,No especificado,BI / Analytics,Power BI,Herramienta BI
+82,Kibernum,No especificado,BI / Analytics,ETL / Pipelines,Metodología
+83,RyC Consultores,Junior,BI / Analytics,SQL,Lenguaje
+83,RyC Consultores,Junior,BI / Analytics,Power BI,Herramienta BI
+84,Kibernum,Junior,Data Engineering,SQL,Lenguaje
+84,Kibernum,Junior,Data Engineering,Python,Lenguaje
+84,Kibernum,Junior,Data Engineering,ETL / Pipelines,Metodología

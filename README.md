@@ -89,9 +89,9 @@ jupyter notebook analisis_mercado_datos_chile.ipynb
 ## 📊 Dashboard Power BI
 
 El dashboard interactivo complementario está disponible en:  
-![Mercado y Sectores](Mercado%20y%20Sectores.png)
-![Ofertas Accesibles](Ofertas%20Accesibles.png)
-![Resumen Ejecutivo](Resumen%20Ejecutivo.png)
-![Skills y Herramientas](Skills%20y%20Herramientas.png)
+![Mercado y Sectores](images/Mercado%20y%20Sectores.png)
+![Ofertas Accesibles](images/Ofertas%20Accesibles.png)
+![Resumen Ejecutivo](images/Resumen%20Ejecutivo.png)
+![Skills y Herramientas](images/Skills%20y%20Herramientas.png)
 
 ---

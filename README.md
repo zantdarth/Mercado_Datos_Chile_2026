@@ -1,4 +1,4 @@
-![Skills más demandados](outputs/02_skills_demandados.png)
+![Skills y Herramientas](images/Skills%20y%20Herramientas.png)
 # 📊 Mercado Laboral TI — Analista de Datos Chile 2026
 
 > Análisis exploratorio de 89 ofertas laborales del área de datos en Chile, recopiladas desde LinkedIn Jobs y Trabajando.cl durante mayo–junio 2026.

@@ -7,7 +7,7 @@
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Identificar patrones del mercado laboral para roles de analista de datos en Chile:
 - Skills técnicos más demandados
@@ -18,7 +18,7 @@ Identificar patrones del mercado laboral para roles de analista de datos en Chil
 
 ---
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 ```
 ├── ofertas_ti_chile_clean.csv        # Dataset limpio (89 ofertas, 25 columnas)
@@ -35,7 +35,7 @@ Identificar patrones del mercado laboral para roles de analista de datos en Chil
 
 ---
 
-## 🔍 Metodología
+##  Metodología
 
 1. **Recopilación manual** de ofertas en LinkedIn Jobs y Trabajando.cl bajo keywords: "analista de datos", "data analyst", "analista BI", "data scientist"
 2. **Estructuración** en Excel con 12 columnas: cargo, empresa, industria, región, modalidad, seniority, salario, skills, experiencia mínima, fuente y notas
@@ -48,7 +48,7 @@ Identificar patrones del mercado laboral para roles de analista de datos en Chil
 
 ---
 
-## 📈 Principales hallazgos
+##  Principales hallazgos
 
 | Insight | Dato |
 |---|---|
@@ -62,7 +62,7 @@ Identificar patrones del mercado laboral para roles de analista de datos en Chil
 
 ---
 
-## 🛠️ Stack técnico utilizado
+##  Stack técnico utilizado
 
 - **Python:** pandas, matplotlib, numpy
 - **Jupyter Notebook**
@@ -70,7 +70,7 @@ Identificar patrones del mercado laboral para roles de analista de datos en Chil
 
 ---
 
-## 🚀 Cómo ejecutar
+## Cómo ejecutar
 
 ```bash
 # Clonar repositorio
@@ -86,7 +86,7 @@ jupyter notebook analisis_mercado_datos_chile.ipynb
 
 ---
 
-## 📊 Dashboard Power BI
+##  Dashboard Power BI
 
 El dashboard interactivo complementario está disponible en:  
 ![Mercado y Sectores](images/Mercado%20y%20Sectores.png)
